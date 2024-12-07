@@ -1,0 +1,103 @@
+body{ 
+background-color: black;
+    
+}
+#nav-contant ul{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    list-style: none;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    margin-left: 100px;
+    color: #FFFFFFB2;
+    position: absolute;
+    right: 100px;
+    top: 10px;
+    
+}
+.nav-bar{
+color: aliceblue;
+ padding: 5px;
+  height: 40px;
+  display: flex;
+    max-width: 400px;
+    display: flex  ;
+  
+    margin:  auto;
+  
+   
+}
+
+#HooBank ul{
+position: absolute;
+left: 100px;
+top: 10px;
+width: 82px;
+height: 23px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 130%;
+color: #FFFFFF;
+list-style: none;
+display: flex;
+flex-direction: row;
+
+}
+#HooBank img{
+width: 32px;
+height: 32px;
+}
+#contant{font-family: Poppins;
+    font-size: 72px;
+    font-weight: 600;
+    line-height: 100.8px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #FFFFFF;
+    position: absolute;
+    left: 100px;
+    top: 200px;
+
+}
+#image img{
+position: absolute;
+/* top: 200px;
+left: 700px; */
+width: 669px;
+height: 674px;
+top: 127px;
+left: 771.41px;
+gap: 0px;
+opacity: 0px;
+
+}
+#discount{
+    font-family: Poppins;
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #FFFFFF;
+}
+#contant p{font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30.6px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #FFFFFFB2;
+    /* position: absolute;
+    left: 100px;
+    top: 400px; */
+}    
